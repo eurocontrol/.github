@@ -10,4 +10,4 @@ Here we share open-source projects and tools we deem useful to support our missi
 
 We welcome contributions and feedback from the community, so please feel free to explore and get involved!
 
-See the [EUROCONTROL Aviation Sustainability Unit](https://github.com/eurocontrol-asu) github organisation for more open source releases.
+See also the EUROCONTROL [Aviation Sustainability Unit](https://github.com/eurocontrol-asu) and [Aviation Intelligence Unit](https://github.com/euctrl-pru) github organisations for more open source releases.
